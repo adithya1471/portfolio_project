@@ -5,7 +5,7 @@ import { FaDownload } from "react-icons/fa";
 import "./about.css";
 import { resume } from "../../Data";
 import Skills from "../../components/Skills";
-import CV from "../../assets/SP_ATS_update_Resume.pdf";
+import CV from "../../assets/Adithya Resume.pdf";
 import ResumeItem from "../../components/ResumeItem";
 const About = () =>{
     return(

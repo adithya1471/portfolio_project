@@ -12,7 +12,7 @@ const Home = () =>{
             <div className="home__content">
                 <div className="home__data">
                     <h1 className="home__title">
-                       <span> I'm Saiprasad Vemula. </span>
+                       <span> I'm Adithya Vemula. </span>
                        Web Designer
                     </h1>
 

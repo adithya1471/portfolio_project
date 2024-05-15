@@ -61,7 +61,7 @@ import {
     {
       id: 1,
       title: 'First Name : ',
-      description: 'Saiprasad',
+      description: 'Adithya',
     },
   
     {
@@ -73,7 +73,7 @@ import {
     {
       id: 3,
       title: 'Age : ',
-      description: '24 Years',
+      description: '23 Years',
     },
   
     {
@@ -97,19 +97,19 @@ import {
     {
       id: 7,
       title: 'Phone : ',
-      description: '+91 9966979755',
+      description: '+91 9908313201',
     },
   
     {
       id: 8,
       title: 'Email : ',
-      description: 'vsaiprasad1004@gmail.com',
+      description: 'adithyav7777@gmail.com',
     },
   
     {
       id: 9,
-      title: 'GitHub : ',
-      description: 'https://github.com/vsp47',
+      title: 'Insta : ',
+      description: 'mr_a_d_i_t_h_y_a',
     },
   
     {
@@ -122,26 +122,26 @@ import {
   export const stats = [
     {
       id: 1,
-      no: '6 Months+',
-      title: 'Years of <br /> Experience',
+      no: '1',
+      title: 'Banking project by<br />Using Spring Boot',
     },
   
     {
       id: 2,
       no: '2',
-      title: 'Completed <br /> Projects',
+      title: 'Completed <br /> Portfolios',
     },
   
     {
       id: 3,
-      no: '2 Times',
-      title: 'VC of Telangana<br /> Hockey Team ',
+      no: 'Fresher',
+      title: 'Java <br /> Developer ',
     },
   
     {
       id: 4,
-      no: '6+',
-      title: ' Awards <br /> Won',
+      no: '6',
+      title: ' Months of Java<br />Full Stack Course',
     },
   ];
   
@@ -177,8 +177,8 @@ import {
       id: 4,
       category: 'education',
       icon: <FaGraduationCap />,
-      year: '2021',
-      title: 'Bachelor Degree <span> Vivekananda Degree College, Karimnagar </span>',
+      year: '2023',
+      title: 'Engineering Degree <span> VITS, Karimnagar </span>',
       desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do tempor incididunt ut labore',
     },
   
@@ -186,8 +186,8 @@ import {
       id: 5,
       category: 'education',
       icon: <FaGraduationCap />,
-      year: '2017',
-      title: 'Intermediate <span> Trinity Junior College, Karimnagar</span>',
+      year: '2018',
+      title: 'Intermediate <span> Sahasra Junior College, Karimnagar</span>',
       desc: 'Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol elit, tempor incididunt',
     },
   
@@ -195,7 +195,7 @@ import {
       id: 6,
       category: 'education',
       icon: <FaGraduationCap />,
-      year: '2015',
+      year: '2016',
       title: '10th <span> ZP High School </span>',
       desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor ut labore',
     },
@@ -247,7 +247,7 @@ import {
     {
       id: 8,
       title: 'React JS',
-      percentage: '45',
+      percentage: '65',
     },
   ];
   

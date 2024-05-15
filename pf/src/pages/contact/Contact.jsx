@@ -32,7 +32,7 @@ const Contact= () =>{
 
                         <div>
                             <span className="info__title">Mail me : </span>
-                            <h4 className="info__desc">vsaiprasad1004@gmail.com</h4>
+                            <h4 className="info__desc">adithyav7777@gmail.com</h4>
                         </div>
                     </div>
 
@@ -41,17 +41,17 @@ const Contact= () =>{
 
                         <div>
                             <span className="info__title">Call me : </span>
-                            <h4 className="info__desc">+91 9966979755</h4>
+                            <h4 className="info__desc">+91 9908313201</h4>
                         </div>
                     </div>
                 </div>
 
                 <div className="contact__socials">
-                    <a href="https://github.com/vsp47" className="contact__social-link">
+                    <a href="https://github.com/adithya1471" className="contact__social-link">
                         <FaGithub />
                     </a>
 
-                    <a href="https://www.linkedin.com/in/vsai47/" className="contact__social-link">
+                    <a href="https://www.linkedin.com/in/vadithya9908/" className="contact__social-link">
                         <FaLinkedin />
                     </a>
 
@@ -59,7 +59,7 @@ const Contact= () =>{
                         <FaInstagram />
                     </a>
 
-                    <a href="https://wa.me/+919966979755" className="contact__social-link">
+                    <a href="https://wa.me/+919908313201" className="contact__social-link">
                         <FaWhatsapp />
                     </a>
                 </div>
