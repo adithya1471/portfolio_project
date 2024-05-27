@@ -55,7 +55,7 @@ const Contact= () =>{
                         <FaLinkedin />
                     </a>
 
-                    <a href="https://www.instagram.com/" className="contact__social-link">
+                    <a href="https://www.instagram.com/mr_a_d_i_t_h_y_a/" className="contact__social-link">
                         <FaInstagram />
                     </a>
 

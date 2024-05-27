@@ -123,7 +123,7 @@ import {
     {
       id: 1,
       no: '1',
-      title: 'Banking project by<br />Using Spring Boot',
+      title: 'Banking <br />Project',
     },
   
     {
@@ -140,8 +140,8 @@ import {
   
     {
       id: 4,
-      no: '6',
-      title: ' Months of Java<br />Full Stack Course',
+      no: 'Fresher',
+      title: ' Frontend <br /> Developer',
     },
   ];
   
